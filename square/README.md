@@ -9,23 +9,27 @@ This folder contains code in C programming language to print the following outpu
 ### In * Output
 
 ```
-****
-****
-****
+*****
+*****
+*****
 ```
 
 ### In `i` output
 
 ```
-1111
-2222
-3333
+11111
+22222
+33333
+44444
+55555
 ```
 
 ### In `j` output
 
 ```
-1234
-1234
-1234
+12345
+12345
+12345
+12345
+12345
 ```
