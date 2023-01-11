@@ -6,7 +6,7 @@ This folder contains code in C programming language to print the following outpu
 
 ## Output
 
-### In * Output
+### In `*` Output
 
 ```
 *****
