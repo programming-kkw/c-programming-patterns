@@ -2,7 +2,7 @@
 
 ## Description
 
-This folder contains code in C programming language to print the following output.
+This folder contains code in C programming language to print the square pattern output.
 
 ## Output
 
