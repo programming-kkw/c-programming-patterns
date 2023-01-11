@@ -12,6 +12,8 @@ This folder contains code in C programming language to print the following outpu
 *****
 *****
 *****
+*****
+*****
 ```
 
 ### In `i` output
