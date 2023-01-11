@@ -14,3 +14,6 @@ int main() {
 
 // To print i instead of *, replace the following code by code on line 7
 // printf("%d", i);
+
+// To print j instead of *, replace the following code by code on line 7
+// printf("%d", j);
