@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/84132532/212108330-6fcc07ac-b1f6-439f-ad2d-b5f32b5aec65.png)
+
 # Patterns in C Programming
 
 This is a repository for most common patterns in C Programming. It contains pattern outputs and the code to solve the pattern in 4 different ways.
