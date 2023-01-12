@@ -2,6 +2,23 @@
 
 ---
 
+## Folder Structure
+
+```
+Folder Name
+├── README.md
+├── filename_ii.c
+├── filename_id.c
+├── filename_dd.c
+└── filename_di.c
+```
+
+In each folder, there will be a `README.md` which will have description of the pattern solved & show the output of all the codes in that particular folder.
+
+In each folder, there will be 4 files. Each file will have a different way of solving the same pattern. The naming convention of the files is explained in the [Naming Conventions](#naming-conventions) section.
+
+---
+
 ## Naming conventions
 
 We are using several naming conventions for our files as we are solving the same pattern in 4 different ways. The naming conventions are as follow:
