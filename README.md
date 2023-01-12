@@ -58,7 +58,7 @@ git clone https://github.com/<YOUR_GITHUB_USERNAME>/c-programming-patterns
 3. Create a new branch.
 
 ```bash
-git checkout -b ＜NEW_BRANCH_NAME>
+git checkout -b <NEW_BRANCH_NAME>
 ```
 
 4. Make your changes.
