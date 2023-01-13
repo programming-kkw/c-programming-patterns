@@ -1,4 +1,4 @@
-# Square Pattern
+# 2. Half Pyramid
 
 ## Description
 
