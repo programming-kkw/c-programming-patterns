@@ -1,4 +1,4 @@
-# Square Pattern
+# 3. Inverted Half Pyramid
 
 ## Description
 
