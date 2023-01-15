@@ -114,7 +114,7 @@ d_fix: parent_folder_name: fix_message
 
 ## Maintainers
 
-If you have any query regarding this repository then feel free to raise an issue or contant the following maintainers.
+If you have any query regarding this repository then feel free to raise an issue or contact the following maintainers.
 
 - [Adarsh Dubey](https://bio.link/inclinedadarsh)
 - [Pranav Prajapati](https://twitter.com/pranavvstwt)
