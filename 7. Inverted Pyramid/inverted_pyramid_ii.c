@@ -5,7 +5,7 @@ int main () {
 
     for (i = 1; i <= 5; i++) {
         for (k = 1; k < i; k++) {
-            printf(".");
+            printf(" ");
         }
 
         for (j = 1; j < (2 * (6 - i) ); j++) {
