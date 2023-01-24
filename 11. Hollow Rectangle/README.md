@@ -1,4 +1,4 @@
-# 3. Hollow Rectange Pyramid
+# 3. Hollow Rectangle Pyramid
 
 ## Description
 
