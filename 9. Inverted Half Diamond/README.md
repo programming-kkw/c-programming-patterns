@@ -1,4 +1,4 @@
-# 3. Inverted Mirror Half Pyramid
+# 3. Inverted Half Diamond
 
 ## Description
 
